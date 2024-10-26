@@ -1,0 +1,3 @@
+/home/rezaafzaal/iris/build/CMakeFiles/rebuild_cache.dir
+/home/rezaafzaal/iris/build/CMakeFiles/edit_cache.dir
+/home/rezaafzaal/iris/build/CMakeFiles/main.dir
